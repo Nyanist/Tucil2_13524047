@@ -1,0 +1,2 @@
+src/example-object/teapot.obj
+6

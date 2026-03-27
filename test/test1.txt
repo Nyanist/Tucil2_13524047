@@ -1,0 +1,3 @@
+\src\example-object\pumpkin.obj
+6
+

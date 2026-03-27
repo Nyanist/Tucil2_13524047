@@ -1,0 +1,2 @@
+\src\example-object\cow.obj
+6
